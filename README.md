@@ -1,6 +1,6 @@
 # DORG
 
-Dorg stands for Downloads Organizer. Simple but effective script to organize your Downloads folder.
+Dorg stands for Downloads Organizer. Simple but effective script to organize your Downloads folder. Dorg makes own folder for each filetype.
 
 - Edit your username on both files
 - Install inotify-tools
